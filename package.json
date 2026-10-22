@@ -1,0 +1,10 @@
+{
+  "name": "zhilian-sales-query-handoff",
+  "version": "0.1.0",
+  "private": true,
+  "description": "YonBIP sales-query workflow handoff documentation and parser",
+  "scripts": {
+    "test": "node --test tests/parse-query.test.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
